@@ -45,3 +45,10 @@ Talks and presentations
   - Talk given at Going Romance 2020, November 27
 - Givenness and the correlation between German and Spanish complement CPs
   - Talk given at RomTiN 7, June 12
+
+2019
+----
+
+- Revisiting obviation experimentally: on the weakening of the subjunctive disjoint reference effect in French.
+  - Joint work with Ingo Feldhausen
+  - Poster presentation given at Going Romance 2019, November 28
