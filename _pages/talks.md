@@ -11,10 +11,12 @@ Talks and presentations
 
 2022
 ----
-- Test
-  - Test
-- Test
-- Test
+- *Whether*-exclamatives: a verum strategy
+  - Joint work with Sara Amido
+  - Talk given at the verum workshop at SLE
+- *Whether*-exclamatives
+  - Joint work with Sara Amido
+  - Talk given at ESSLLI Student Session
 
 2021
 ----
