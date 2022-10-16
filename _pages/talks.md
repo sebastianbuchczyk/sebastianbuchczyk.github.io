@@ -11,7 +11,7 @@ Talks and presentations
 
 2022
 ----
-- Y-a-t-il de la variation dans la référence disjointe du subjonctif ? Une révision expérimentale de l’effet de l’affaiblissement de l’obviatio
+- Y-a-t-il de la variation dans la référence disjointe du subjonctif ? Une révision expérimentale de l’effet de l’affaiblissement de l’obviation
   - Joint work with Ingo Feldhausen
   - Talk given at the Frankoromanistentag Wien, September 22
 - *Whether*-exclamatives: a verum strategy
