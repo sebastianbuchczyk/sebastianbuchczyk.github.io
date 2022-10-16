@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
+About me
 ======
 I am a PhD student at Universitat Pompeu Fabra, Barcelona, interested in the field of semantics and pragmatics and their interfaces with syntax in Romance. My main research deals with the phenomenon of mood variability in Romance and its relation to distinct ontological objects, speech acts, and commitments. I also work on obviation and exclamatives.
 
