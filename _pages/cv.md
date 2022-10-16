@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[CV](http://sebastianbuchczyk.github.io/files/S-Buchczyk_CV.pdf)
