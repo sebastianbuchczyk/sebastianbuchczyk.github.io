@@ -16,4 +16,5 @@ Feel free to reach me at sebastian[dot]buchczyk[at]upf[dot]edu.
 
 News
 ======
-- I will be giving two talks at Going Romance 2022 entitled **Common Ground-effects on mood variability: the case of decir** and **Whether-exclamatives: evidence from European Portuguese & Standard German**. The latter is a joint project with my colleague Sara Amido.
+- I will be giving two talks at [Going Romance 2022](https://duckduckgo.com](https://clt.uab.cat/going-romance-2022/) entitled **Common Ground-effects on mood variability: the case of decir** and ***Whether*-exclamatives: evidence from European Portuguese & Standard German**. The latter is a joint project with my colleague Sara Amido.
+- 
