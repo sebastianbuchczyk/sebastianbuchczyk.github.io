@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a PhD student at Universitat Pompeu Fabra, Barcelona, interested in the field of semantics and pragmatics and their interfaces with syntax in Romance. My main research deals with the phenomenon of mood variability and its relation to distinct ontological objects, speech acts, and commitments. I also work on obviation and exclamatives.
+I am a PhD student at Universitat Pompeu Fabra under the co-supervision of [Laia Mayol](https://www.upf.edu/web/laia-mayol/) and [Josep Quer](https://www.icrea.cat/Web/ScientificStaff/Josep-Quer-Villanueva-131). I am interested in the field of semantics and pragmatics and their interfaces with syntax in Romance. My main research deals with the phenomenon of mood variability and its relation to distinct ontological objects, speech acts, and commitments. I also work on obviation and exclamatives.
 
 Feel free to reach me at sebastian[dot]buchczyk[at]upf[dot]edu.
 
