@@ -13,14 +13,17 @@ Talks and presentations
 ----
 - *Whether*-exclamatives: a verum strategy
   - Joint work with Sara Amido
-  - Talk given at the verum workshop at SLE
+  - Talk given at the verum workshop at SLE, August 24
 - *Whether*-exclamatives
   - Joint work with Sara Amido
-  - Talk given at ESSLLI Student Session
+  - Talk given at ESSLLI Student Session, August 16
+- *Whether*-exclamatives: a verum strategy
+  - Joint work with Sara Amido
+  - Talk given at RomTiN, June 24
 
 2021
 ----
--
+- 
 -
 
 2020
