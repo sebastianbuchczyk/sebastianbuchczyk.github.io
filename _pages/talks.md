@@ -13,7 +13,6 @@ Talks and presentations
   -
   -
   -
-
 - 2021
 
   -
