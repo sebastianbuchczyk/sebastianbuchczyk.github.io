@@ -14,7 +14,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 10em 10em 10em;
     font-family: $sans-serif;
 
     @include breakpoint($x-large) {
@@ -34,8 +34,8 @@
 .masthead__menu {
 
   ul {
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     clear: both;
     list-style-type: none;
   }
