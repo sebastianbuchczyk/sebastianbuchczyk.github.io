@@ -23,7 +23,7 @@ Talks and presentations
 - *Whether*-exclamatives: a verum strategy
   - Joint work with Sara Amido
   - Talk given at RomTiN 9, June 24
-- Verum in inversion exclamatives: evidence from European Portuguese.
+- Verum in inversion exclamatives: evidence from European Portuguese
   - Joint work with Sara Amido
   - Talk given at UPF, March 3
 
@@ -49,6 +49,15 @@ Talks and presentations
 2019
 ----
 
-- Revisiting obviation experimentally: on the weakening of the subjunctive disjoint reference effect in French.
+- Revisiting obviation experimentally: on the weakening of the subjunctive disjoint reference effect in French
   - Joint work with Ingo Feldhausen
   - Poster presentation given at Going Romance 2019, November 28
+- À propos du subjonctif en français: une révision expérimentale de l’effet de l’affaiblissement de l’obviation
+  - Joint work with Ingo Feldhausen
+  - Talk given at the 36. Romanistentag
+- Zum Subjunktiv im Französischen: Eine experimentelle Überprüfung des Abschwächungseffekts der Obviation
+  - Joint work with Ingo Feldhausen
+  - Talk given at the 45. Tagung zur Generativen Grammatik des Südens
+- The correspondence of Germanic verb position and Romance subjunctives in embedded clauses 
+  - Talk given at T.W.I.S.T. Conference 2019
+
