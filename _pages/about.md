@@ -16,6 +16,6 @@ You can reach me at *name*.*surname*♠upf.edu by replacing *name* and *surname*
 
 News
 ======
-- Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53]([url](https://nels53.uni-goettingen.de/)) in Göttingen.
+- Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53]([url](https://nels53.uni-goettingen.de/) in Göttingen.
 - Together with Sara Muñoz Coego, I will co-organise this year's **UR-LING Workshop** at the Universitat Pompeu Fabra.
 - I will be giving two talks at [Going Romance 2022](https://clt.uab.cat/going-romance-2022/) entitled ***Common Ground*-effects on mood variability: the case of *decir*** and ***Whether*-exclamatives: evidence from European Portuguese & Standard German**. The latter is a joint project with my colleague Sara Amido.
