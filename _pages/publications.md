@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ====
 
-Manuscripts
+Submitted
 ----
 - The unanswered question: the Romance subjunctive
   - With Tobias Gretenkort and Ingo Feldhausen
