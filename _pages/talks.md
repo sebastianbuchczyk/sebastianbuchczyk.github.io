@@ -9,8 +9,19 @@ author_profile: true
 Talks and presentations
 ======
 
+2023
+----
+- Whether-exclamatives and the division of labour in answers to questions
+  - Joint work with Sara Amido
+  - Talk given at NELS 53
+
 2022
 ----
+- Commitment-effects on mood variability: the case of *decir*
+  - Talk Given at Going Romance 2022
+- Whether-exclamatives: evidence from European Portuguese & Standard German
+  - Joint work with Sara Amido
+  - Talk Given at Going Romance 2022
 - Y-a-t-il de la variation dans la référence disjointe du subjonctif ? Une révision expérimentale de l’effet de l’affaiblissement de l’obviation
   - Joint work with Ingo Feldhausen
   - Talk given at the Frankoromanistentag Wien, September 22
