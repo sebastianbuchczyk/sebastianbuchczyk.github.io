@@ -16,6 +16,7 @@ You can reach me at *name*.*surname*♠upf.edu by replacing *name* and *surname*
 
 News
 ======
+- Josep Ausensi were invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili. We will present our joint work on mood choice in complement clauses of cause-related verbs in Catalan.
 - From January till April, I will be a Visiting Student in the Department of Linguistics and Philosophy at the Massachusetts Institute of Technology under the  supervision of [Kai von Fintel](https://linguistics.mit.edu/user/fintel/)
 - Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53](https://nels53.uni-goettingen.de/) in Göttingen
 - Together with Sara Muñoz Coego, I will co-organise this year's **UR-LING Workshop** at the Universitat Pompeu Fabra
