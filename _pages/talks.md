@@ -11,9 +11,12 @@ Talks and presentations
 
 2023
 ----
+- **Mood choice in complement clauses of cause-related verbs in Catalan**
+  - Joint work with Josep Ausensi
+  - Invited talk given at the Universitat Rovira i Virgili, February 13th
 - **Whether-exclamatives and the division of labour in answers to questions**
   - Joint work with Sara Amido
-  - Talk given at NELS 53
+  - Talk given at NELS 53, January 13th
 
 2022
 ----
