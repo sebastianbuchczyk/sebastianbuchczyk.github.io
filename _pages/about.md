@@ -14,6 +14,8 @@ I am a PhD student at Universitat Pompeu Fabra under the co-supervision of [Laia
 
 You can reach me at *name*.*surname*♠upf.edu by replacing *name* and *surname* with my name and surname and ♠ with @.
 
+My surname is pronounced [buxt͡ʃɨk].
+
 News
 ======
 - [Josep Ausensi](https://sites.google.com/view/ausensijosep/) and I were invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili on February 13th. We will present our joint work on mood choice in complement clauses of cause-related verbs in Catalan.
