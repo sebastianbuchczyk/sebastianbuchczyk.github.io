@@ -18,6 +18,7 @@ My surname is pronounced [buxt͡ʃɨk].
 
 News
 ======
+- I will give a talk on some joint research with Josep Ausensi](https://sites.google.com/view/ausensijosep/) entitled ***Predicting mood choice in causative complements: a commitment-based approach*** at [LSRL53](https://lsrl53.sciencesconf.org/) in Paris
 - [Josep Ausensi](https://sites.google.com/view/ausensijosep/) and I were invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili on February 13th. We will present our joint work on mood choice in complement clauses of cause-related verbs in Catalan.
 - From January till April, I will be a Visiting Student in the Department of Linguistics and Philosophy at the Massachusetts Institute of Technology under the  supervision of [Kai von Fintel](https://linguistics.mit.edu/user/fintel/)
 - Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53](https://nels53.uni-goettingen.de/) in Göttingen
