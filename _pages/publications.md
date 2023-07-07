@@ -8,11 +8,14 @@ author_profile: true
 Publications
 ====
 
-Submitted
+To appear
 ----
 - **The unanswered question: the Romance subjunctive**
   - With Tobias Gretenkort and Ingo Feldhausen
   - To appear in Ströbel, Liane (Ed.), "El subjuntivo/ Le subjonctif"
+- ***Whether*-exclamatives: a verum strategy**
+  - With Sara Amido
+  - Accepted in *Zeitschrift für Sprachwissenschaft*
 
 2022
 ----
