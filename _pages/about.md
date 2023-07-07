@@ -18,9 +18,8 @@ My surname is pronounced [buxt͡ʃɨk].
 
 News
 ======
-- I will give a talk on some joint research with [Josep Ausensi](https://sites.google.com/view/ausensijosep/) entitled ***Predicting mood choice in causative complements: a commitment-based approach*** at [LSRL53](https://lsrl53.sciencesconf.org/) in Paris
+- I will give a talk on a joint research project with [Josep Ausensi](https://sites.google.com/view/ausensijosep/) entitled ***Predicting mood choice in causative complements: a commitment-based approach*** at [LSRL53](https://lsrl53.sciencesconf.org/) in Paris. We will also present this work at [Sinn und Bedeutung](https://www.ruhr-uni-bochum.de/sub28/program.html.en) in Bochum.
+- I was invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili on June 12th. I will present my ongoing work on how to formally capture mood variability.
 - [Josep Ausensi](https://sites.google.com/view/ausensijosep/) and I were invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili on February 13th. We will present our joint work on mood choice in complement clauses of cause-related verbs in Catalan.
-- From January till April, I will be a Visiting Student in the Department of Linguistics and Philosophy at the Massachusetts Institute of Technology under the  supervision of [Kai von Fintel](https://linguistics.mit.edu/user/fintel/)
-- Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53](https://nels53.uni-goettingen.de/) in Göttingen
-- Together with Sara Muñoz Coego, I will co-organise this year's **UR-LING Workshop** at the Universitat Pompeu Fabra
-- I will be giving two talks at [Going Romance 2022](https://clt.uab.cat/going-romance-2022/) entitled ***Common Ground*-effects on mood variability: the case of *decir*** and ***Whether*-exclamatives: evidence from European Portuguese & Standard German**. The latter is a joint project with my colleague Sara Amido
+- From January till April, I will be a Visiting Student in the Department of Linguistics and Philosophy at the Massachusetts Institute of Technology under the  supervision of [Kai von Fintel](https://linguistics.mit.edu/user/fintel/).
+- Sara Amido and I will give a poster presentation entitled ***Whether*-exclamatives and the division of labour in answers to questions** at [NELS 53](https://nels53.uni-goettingen.de/) in Göttingen.
