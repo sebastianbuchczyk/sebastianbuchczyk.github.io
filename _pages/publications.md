@@ -12,7 +12,7 @@ To appear
 ----
 - **The unanswered question: the Romance subjunctive**
   - With Tobias Gretenkort and Ingo Feldhausen
-  - To appear in Ströbel, Liane (Ed.), "El subjuntivo/ Le subjonctif"
+  - To appear in Ströbel, Liane (Ed.), "Cross-linguistic facets of the subjunctive"
 - ***Whether*-exclamatives: a verum strategy**
   - With Sara Amido
   - Accepted in *Zeitschrift für Sprachwissenschaft*
