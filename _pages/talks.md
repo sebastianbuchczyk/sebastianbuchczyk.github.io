@@ -11,6 +11,15 @@ Talks and presentations
 
 2023
 ----
+
+- **Predicting mood choice in causative complements: a commitment-based approach**
+  - Joint work with Josep Ausensi
+  - Talk given at Sinn und Bedeutung, Sep
+- **Predicting mood choice in causative complements: a commitment-based approach**
+  - Joint work with Josep Ausensi
+  - Talk given at LSRL53, June 28
+- **How to formally capture mood variability**
+  - Invited talk given at the Universitat Rovira i Virgili, June 12th
 - **Mood choice in complement clauses of cause-related verbs in Catalan**
   - Joint work with Josep Ausensi
   - Invited talk given at the Universitat Rovira i Virgili, February 13th
