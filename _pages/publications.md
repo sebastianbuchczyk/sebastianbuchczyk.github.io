@@ -24,7 +24,7 @@ To appear
 ----
 - **Revisiting subjunctive obviation in French: a formal acceptability judgment study**
   - With Ingo Feldhausen
-  - Published in *Glossa: A Journal of General Linguistics*
+  - Published in [Glossa: A Journal of General Linguistics](https://www.glossa-journal.org/article/5439/galley/11191/download/)
 
 2020
 ----
