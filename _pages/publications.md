@@ -30,4 +30,4 @@ To appear
 ----
 - **À propos du subjonctif en français: une révision expérimentale de l’effet de l’affaiblissement de l’obviation** [On subjunctive in French: an experimental revision of obviation weakening effects]
   - With Ingo Feldhausen
-  - Published in [7e Congrès Mondial de Linguistique Française (SHS Web of Conferences )](https://www.shs-conferences.org/articles/shsconf/pdf/2020/06/shsconf_cmlf2020_14003.pdf)
+  - Published in [7e Congrès Mondial de Linguistique Française (SHS Web of Conferences)](https://www.shs-conferences.org/articles/shsconf/pdf/2020/06/shsconf_cmlf2020_14003.pdf)
