@@ -18,7 +18,7 @@ To appear
 ----
 - ***Whether*-exclamatives**
   - With Sara Amido
-  - Published in *Proceedings of ESSLLI2022*
+  - Published in [*Proceedings of ESSLLI2022*](https://uvaauas.figshare.com/ndownloader/files/36465219)
 
 2021
 ----
