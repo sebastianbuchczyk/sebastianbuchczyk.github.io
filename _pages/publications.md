@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ====
 
-To appear
+Accepted
 ----
 - **Whether-exclamatives: a verum strategy**
   - With Sara Amido
