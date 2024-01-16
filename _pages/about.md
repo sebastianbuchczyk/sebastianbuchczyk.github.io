@@ -18,6 +18,7 @@ My surname is pronounced [buxt͡ʃɨk].
 
 News
 ======
+- Together with [Josep Ausensi](https://sites.google.com/view/ausensijosep/), we will present some work in progress on what we call post-imperatives in Catalan and German at the GLiF seminar at the Universitat Pompeu Fabra.
 - I was invited to give a talk at the [Seminari CLT at the Universitat Autònoma on November 24th](https://filcat.uab.cat/seminari-del-clt-amb-sebastian-buchczyk/) entitled ***On the projective nature of indicatives under negation***
 - I will give a talk on a joint research project with [Josep Ausensi](https://sites.google.com/view/ausensijosep/) entitled ***Predicting mood choice in causative complements: a commitment-based approach*** at [LSRL53](https://lsrl53.sciencesconf.org/) in Paris. We will also present this work at [Sinn und Bedeutung](https://www.ruhr-uni-bochum.de/sub28/program.html.en) in Bochum.
 - I was invited to give a talk at the ROLLING seminar at the Universitat Rovira i Virgili on June 12th. I will present my ongoing work on how to formally capture mood variability.
