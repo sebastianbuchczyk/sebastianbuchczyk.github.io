@@ -8,14 +8,11 @@ author_profile: true
 Publications
 ====
 
-Accepted
+2023
 ----
 - **Whether-exclamatives: a verum strategy**
   - With Sara Amido
-  - To appear in Zeitschrift für Sprachwissenschaft
-
-2023
-----
+  - Published in [Zeitschrift für Sprachwissenschaft](https://www.degruyter.com/document/doi/10.1515/zfs-2023-2014/html)
 - **The unanswered question: the Romance subjunctive**
   - With Tobias Gretenkort and Ingo Feldhausen
   - Published in Ströbel, Liane (Ed.), "Cross-linguistic facets of the subjunctive", AVM Verlag München (e-mail me for a copy)
