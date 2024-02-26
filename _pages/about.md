@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 ======
-<p><div align="justify">I am a PhD student at Universitat Pompeu Fabra under the co-supervision of [Laia Mayol](https://www.upf.edu/web/laia-mayol/) and [Josep Quer](https://www.icrea.cat/Web/ScientificStaff/Josep-Quer-Villanueva-131). I am interested in the field of semantics and pragmatics and their interfaces with syntax in Romance languages. My main research deals with verbal mood and its relation to commitments. I also work on obviation, exclamatives, and verum.</div><\p>
+<p><div align="justify">I am a PhD student at Universitat Pompeu Fabra under the co-supervision of [Laia Mayol](https://www.upf.edu/web/laia-mayol/) and [Josep Quer](https://www.icrea.cat/Web/ScientificStaff/Josep-Quer-Villanueva-131). I am interested in the field of semantics and pragmatics and their interfaces with syntax in Romance languages. My main research deals with verbal mood and its relation to commitments. I also work on obviation, exclamatives, and verum.</div></p>
 
 You can reach me at *name*.*surname*@upf.edu by replacing *name* and *surname* with my name and surname.
 
