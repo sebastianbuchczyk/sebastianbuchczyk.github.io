@@ -18,5 +18,6 @@ My surname is pronounced [buxt͡ʃɨk].
 
 News
 ======
+- I was accepted at a workshop at the Universitat Autònoma and will present on how verbal mood affects the updates of commitment spaces. Together with [Josep Ausensi](https://sites.google.com/view/ausensijosep/), I will also present our ongoing research on rhetorical imperatives.
 - Our article on whether-exclamatives as a verum strategy, written with Sara Amido, was published in the special issue on verum in [Zeitschrift für Sprachwissenschaft](https://www.degruyter.com/document/doi/10.1515/zfs-2023-2014/html)
 - Together with [Josep Ausensi](https://sites.google.com/view/ausensijosep/), we will present some work in progress on what we call post-imperatives in Catalan and German at the GLiF seminar at the Universitat Pompeu Fabra on January 25th.
