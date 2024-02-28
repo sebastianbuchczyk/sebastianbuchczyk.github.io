@@ -9,6 +9,13 @@ author_profile: true
 Talks and presentations
 ======
 
+Coming up
+----
+- **How mood determines the nature of updates**
+- **Rhetorical imperatives**
+  - Joint work with Josep Ausensi
+
+
 2023
 ----
 - **On the projective nature of embedded indicatives under negation.**
