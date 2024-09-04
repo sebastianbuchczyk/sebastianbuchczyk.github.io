@@ -18,6 +18,6 @@ My surname is pronounced [buxt͡ʃɨk].
 
 News
 ======
-- I was accepted at [Functional Categories, Dimensions of Meaning, and Expletiveness](https://filcat.uab.cat/call-for-papers-per-al-workshop-functional-categories-dimensions-of-meaning-and-expletiveness/) and will give a talk titled `How mood determines the nature of updates'. At the same workship, I will also present our ongoing research on rhetorical imperatives with [Josep Ausensi](https://sites.google.com/view/ausensijosep/).
+- I was accepted at [Functional Categories, Dimensions of Meaning, and Expletiveness](https://filcat.uab.cat/call-for-papers-per-al-workshop-functional-categories-dimensions-of-meaning-and-expletiveness/) and will give a talk titled `How mood determines the nature of updates'. At the same workshop, I will also present our ongoing research on rhetorical imperatives with [Josep Ausensi](https://sites.google.com/view/ausensijosep/).
 - Our article on whether-exclamatives as a verum strategy, written with Sara Amido, was published in the special issue on verum in [Zeitschrift für Sprachwissenschaft](https://www.degruyter.com/document/doi/10.1515/zfs-2023-2014/html)
 - Together with [Josep Ausensi](https://sites.google.com/view/ausensijosep/), we will present some work in progress on what we call post-imperatives in Catalan and German at the GLiF seminar at the Universitat Pompeu Fabra on January 25th.
