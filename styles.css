@@ -24,6 +24,14 @@ a {
   min-height: 100vh; /* full viewport height */
 }
 
+.header,
+.hero,
+.about,
+.work,
+.contact {
+  flex: 0 0 auto; /* normal height sections */
+}
+
 /* Header */
 .header {
   background: #eeeeee;
