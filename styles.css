@@ -20,8 +20,8 @@ a {
 
 /* Header */
 .header {
-  background: #555;
-  color: #fff;
+  background: #d3d3d3;
+  color: #222;
   padding: 1rem 0;
   position: sticky;
   top: 0;
@@ -45,4 +45,16 @@ a {
   font-weight: bold;
 }
 
-/* Hero S*
+.bottom-bar {
+  background: #d3d3d3;
+  color: #fff;
+  padding: 0.75rem 0;
+  text-align: center;
+}
+
+.bottom-bar a {
+  color: #222;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
