@@ -130,6 +130,7 @@ a {
   padding: 0.5rem;   /* internal spacing */
   font-size: 1rem;
   box-sizing: border-box; /* ensures padding doesn't break width */
+  resize: vertical;
 }
 
 /* Textarea */
@@ -140,6 +141,7 @@ a {
   padding: 0.5rem;
   font-size: 1rem;
   box-sizing: border-box;
+  resize: vertical;
 }
 
 /* Send button */
