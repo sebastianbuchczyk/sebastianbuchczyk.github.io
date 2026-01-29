@@ -22,15 +22,34 @@
   </div>
 </header>
 
-  <!-- Contact Section -->
-  <section id="contact" class="contact">
-    <div class="container">
-      <h2>Contact Me</h2>
-      <p>Email: <a href="mailto:hi@test.to">hi@test.to</a></p>
-      <p>LinkedIn: <a href="#">linkedin.com/in/myname</a></p>
-      <p>GitHub: <a href="#">github.com/myname</a></p>
-    </div>
-  </section>
+<section id="contact" class="contact">
+  <div class="container">
+    <h2>Contact Me</h2>
+
+    <!-- Intro text -->
+    <p>Blablabla if you want this or that... Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+    <!-- Contact Form -->
+    <form action="mailto:yourplaceholder@mail.com" method="post" enctype="text/plain">
+      
+      <!-- Name -->
+      <label for="name">Name</label><br>
+      <input type="text" id="name" name="name" required><br><br>
+
+      <!-- Email -->
+      <label for="email">Email</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <!-- Message -->
+      <label for="message">Message</label><br>
+      <textarea id="message" name="message" rows="10" required></textarea><br><br>
+
+      <!-- Send button -->
+      <button type="submit">Send</button>
+
+    </form>
+  </div>
+</section>
 
 <!-- Footer / Bottom Bar -->
 <footer class="footer">
