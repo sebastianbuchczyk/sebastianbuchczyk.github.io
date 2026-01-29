@@ -1,33 +1,55 @@
 /* Header */
 .header {
-  background-color: #eeeeee; /* very light grey */
+  background-color: #555; /* dark grey header */
+  color: #fff;
+  padding: 1rem 0;
 }
 
-.header-inner {
+.header .container {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 0; /* SLIM header */
+  align-items: center;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .header .name {
+  font-weight: 700;
   margin: 0;
-  color: #000;
-  font-weight: 600;
 }
 
-/* Navigation */
-.nav a {
-  color: #000;
+.header .nav a {
+  color: #fff;
   text-decoration: none;
-  margin-left: 1.25rem;
-  font-weight: 400; /* less bold than name */
+  margin-left: 1rem;
+  font-weight: 400;
+}
+
+/* Sections */
+.about,
+.work,
+.contact {
+  padding: 2rem 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.project-card {
+  margin-bottom: 1.5rem;
 }
 
 /* Footer */
 .footer {
-  background-color: #eeeeee; /* same as header */
-  padding: 2rem 0; /* THICK footer */
-  text-align: center;
-  color: #000;
+  background-color: #555;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+.footer .container {
+  max-width: 900px;
+  margin: 0 auto;
 }
