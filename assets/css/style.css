@@ -40,6 +40,39 @@ h1 {
   font-size: 0.95rem;
 }
 
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.pub-list li {
+  margin-bottom: 2em;
+}
+
+.pub-title {
+  font-weight: bold;
+  font-size: 1.05rem;
+  margin-bottom: 0.2em;
+}
+
+.pub-meta {
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 0.2em;
+}
+
+.pub-links a {
+  font-size: 0.9rem;
+  color: #0000cc;
+  text-decoration: none;
+  margin-right: 0.8em;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
 footer {
   margin-top: 2em;
   font-size: 0.85rem;
