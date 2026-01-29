@@ -1,10 +1,9 @@
-document.querySelectorAll('.nav a').forEach(link => {
+document.querySelectorAll('.nav a[href^="#"]').forEach(link => {
   link.addEventListener('click', function(e) {
-    const href = this.getAttribute('href');
-    if (href.startsWith('#')) {   // only scroll for anchors
-      e.preventDefault();
-      const target = document.querySelector(href);
-      if (target) target.scrollIntoView({ behavior: 'smooth' });
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth' });
     }
   });
 });
