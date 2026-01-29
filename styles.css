@@ -194,5 +194,8 @@ a {
   background: #dddddd;
 }
 
+.publication {
+  max-width: 700px;
+}
 
 
