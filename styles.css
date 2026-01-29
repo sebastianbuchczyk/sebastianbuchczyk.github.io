@@ -1,54 +1,57 @@
-/* Global Styles */
-body {
-  margin: 0;
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
-  background: #fff;
-  color: #222;
+/* Page wrapper for sticky footer */
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-a {
-  color: #0077cc;
-  text-decoration: none;
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1rem;
+/* Main sections expand to push footer down */
+.about,
+.work,
+.contact {
+  flex: 1;
 }
 
 /* Header */
 .header {
-  background: #eee;
-  color: #222;
-  padding: 1rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+  background: #f0f0f0;  /* very light grey */
+  color: #000;           /* black text default */
+  padding: 0.5rem 0;     /* slimmer header */
 }
 
 .header .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
+/* "My name" — bold */
 .header .name {
+  font-weight: 700;      /* bold */
+  color: #000;           /* black */
   margin: 0;
-  font-size: 1.5rem;
 }
 
+/* Navigation links — less bold */
 .header .nav a {
-  color: #fff;
+  color: #000;           /* black */
+  text-decoration: none;
   margin-left: 1rem;
-  font-weight: bold;
+  font-weight: 400;      /* normal weight, less bold than h1 */
+  transition: color 0.3s;
 }
 
+.header .nav a:hover {
+  color: #555;           /* subtle hover effect */
+}
+
+/* Footer / Bottom Bar */
 .footer {
-  background: #e0e0e0;
-  color: #fff;
-  padding: 1rem 0;
+  background: #f0f0f0;   /* very light grey */
+  color: #222;
+  padding: 2rem 0;        /* bigger footer */
 }
 
 .footer .container {
@@ -63,25 +66,3 @@ a {
   margin: 0;
   font-weight: bold;
 }
-
-.page-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* full viewport height */
-}
-
-.hero,
-.about,
-.work,
-.contact {
-  flex: 1; /* expands content to push footer down */
-}
-
-.footer {
-  background: #eee;
-  color: #fff;
-  padding: 1rem 0;
-}
-
-
-
