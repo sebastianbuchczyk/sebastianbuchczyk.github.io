@@ -1,7 +1,6 @@
-/* ================================
-   General Body Styles
-================================ */
-
+/* --------------------------
+   Global
+-------------------------- */
 body {
   margin: 40px;
   font-family: Georgia, "Times New Roman", serif;
@@ -12,13 +11,13 @@ body {
 }
 
 #page {
-  max-width: 720px; /* narrow column like Valtorta site */
+  max-width: 720px;
+  margin: auto;
 }
 
-/* ================================
+/* --------------------------
    Headings
-================================ */
-
+-------------------------- */
 h1 {
   font-size: 28px;
   font-weight: normal;
@@ -31,89 +30,28 @@ h2 {
   margin-bottom: 0.5em;
 }
 
-/* ================================
-   Affiliation / subtitle
-================================ */
-
+/* --------------------------
+   Affiliation
+-------------------------- */
 .affiliation {
   margin-top: 0;
   margin-bottom: 1.2em;
 }
 
-/* ================================
-   Top Navigation Bar (centered)
-================================ */
-
+/* --------------------------
+   Top Navigation
+-------------------------- */
 .top-nav {
-  text-align: center;           /* center the links */
+  text-align: center;
   border-bottom: 1px solid #999;
   margin-bottom: 1em;
   padding: 0.5em 0;
 }
 
 .top-nav a {
-  display: inline-block;        /* keep links in a row */
-  margin: 0 1em;                /* spacing between tabs */
+  display: inline-block;
+  margin: 0 1em;
   text-decoration: none;
   color: #0000cc;
   font-weight: normal;
   font-size: 1rem;
-}
-
-.top-nav a:hover {
-  text-decoration: underline;
-}
-
-.top-nav a.active {
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-/* ================================
-   Horizontal Rule
-================================ */
-
-hr {
-  border: none;
-  border-top: 1px solid #999;
-  margin: 1.5em 0;
-}
-
-/* ================================
-   Lists
-================================ */
-
-ul {
-  padding-left: 1.2em;
-  margin: 0.5em 0 1.5em 0;
-}
-
-ul li {
-  margin-bottom: 0.75em;
-}
-
-/* ================================
-   Links
-================================ */
-
-a {
-  color: #0000cc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* ================================
-   Footer
-================================ */
-
-footer {
-  border-top: 1px solid #999;
-  padding: 1rem 0;
-  text-align: center;
-  font-size: 0.85rem;
-  color: #666;
-  margin-top: 3rem;
-}
