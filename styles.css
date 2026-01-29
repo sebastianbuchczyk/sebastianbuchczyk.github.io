@@ -1,84 +1,33 @@
-/* ===== Page Wrapper / Sticky Footer ===== */
-.page-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-/* Make main sections expand to push footer down */
-.about,
-.work,
-.contact {
-  flex: 1;
-}
-
-/* ===== Header ===== */
+/* Header */
 .header {
-  background: #f0f0f0;  /* very light grey */
-  padding: 0.5rem 0;    /* slimmer header */
-  color: #000;          /* default black */
+  background-color: #eeeeee; /* very light grey */
 }
 
-.header .container {
+.header-inner {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  max-width: 900px;
-  margin: 0 auto;
+  justify-content: space-between;
+  padding: 0.75rem 0; /* SLIM header */
 }
 
 .header .name {
-  font-weight: 700;     /* bold */
-  color: #000;          /* black */
   margin: 0;
+  color: #000;
+  font-weight: 600;
 }
 
-.header .nav a {
-  font-weight: 400;     /* less bold than h1 */
+/* Navigation */
+.nav a {
   color: #000;
   text-decoration: none;
-  margin-left: 1rem;
-  transition: color 0.3s;
+  margin-left: 1.25rem;
+  font-weight: 400; /* less bold than name */
 }
 
-.header .nav a:hover {
-  color: #555;
-}
-
-/* ===== Footer ===== */
+/* Footer */
 .footer {
-  background: #f0f0f0;  /* very light grey */
-  color: #222;
-  padding: 2rem 0;       /* heavier footer */
-  margin-top: auto;      /* push to bottom if page short */
-}
-
-.footer .container {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.footer p {
-  margin: 0;
-  font-weight: bold;
-}
-
-/* ===== Container / Sections ===== */
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-/* Optional spacing for sections */
-section {
-  padding: 2rem 0;
-}
-
-/* Project card styling */
-.project-card {
-  margin-bottom: 1.5rem;
+  background-color: #eeeeee; /* same as header */
+  padding: 2rem 0; /* THICK footer */
+  text-align: center;
+  color: #000;
 }
