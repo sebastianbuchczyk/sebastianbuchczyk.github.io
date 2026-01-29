@@ -1,3 +1,10 @@
+/* Global container */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
 /* Header */
 .header {
   background: #222;
@@ -8,36 +15,37 @@
   z-index: 1000;
 }
 
-.header-inner {
-  display: flex;              /* Make container a flex row */
-  justify-content: space-between; /* Space between name and nav */
-  align-items: center;        /* Vertically center items */
+.header .container {
+  display: flex;                 /* horizontal layout */
+  justify-content: space-between; /* name left, nav right */
+  align-items: center;            /* vertical centering */
 }
 
-.name {
+.header .name {
   margin: 0;
   font-size: 1.5rem;
 }
 
-.nav a {
-  margin-left: 1rem;
-  font-weight: bold;
+.header .nav a {
   color: #fff;
+  margin-left: 1rem;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 /* Mobile: stack on small screens */
 @media (max-width: 600px) {
-  .header-inner {
-    flex-direction: column;  /* Stack vertically */
-    align-items: flex-start; /* Left-align when stacked */
+  .header .container {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
-  .nav {
+  .header .nav {
     margin-top: 0.5rem;
   }
 
-  .nav a {
+  .header .nav a {
     margin-left: 0;
-    margin-right: 1rem; /* spacing between links when stacked */
+    margin-right: 1rem;
   }
 }
