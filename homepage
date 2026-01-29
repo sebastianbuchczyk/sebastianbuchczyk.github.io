@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Home | Your Name</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Academic Title | Department | University</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="cv.html">CV</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>Short bio / research interests / summary.</p>
+    </section>
+
+    <section>
+      <h2>Recent news</h2>
+      <ul>
+        <li>📢 Latest talk / award / publication.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Your Name</p>
+  </footer>
+</body>
+</html>
