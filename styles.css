@@ -170,3 +170,26 @@ a {
   cursor: pointer;
 }
 
+.publication {
+  margin-bottom: 2.5rem;
+}
+
+.publication p {
+  margin: 0.3rem 0;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
+  background: #dddddd;
+  color: #222;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.download-btn:hover {
+  background: #cccccc;
+}
+
+
