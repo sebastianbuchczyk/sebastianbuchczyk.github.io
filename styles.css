@@ -173,17 +173,22 @@ a {
 
 .contact button,
 .download-btn {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  margin-right: 0.5rem;
-  background: #dddddd;
-  color: #222;
-  text-decoration: none;
-  font-size: 1rem;
-}
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 0;
 
-.download-btn:hover {
-  background: #cccccc;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-family: inherit;
+  line-height: 1.2;
+
+  background: #eeeeee;
+  color: #222;
+  border: 1px solid #ccc;
+
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
 }
 
 
