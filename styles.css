@@ -1,22 +1,22 @@
-/* Page wrapper for sticky footer */
-.page-wrapper {
+/* Make body a column flex container to push footer down */
+body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100vh;   /* full viewport height */
+  margin: 0;           /* remove default body margin */
 }
 
-/* Main sections expand to push footer down */
-.about,
-.work,
-.contact {
+/* Make main content grow to fill space above footer */
+header + section,
+section {
   flex: 1;
 }
 
-/* Header */
+/* Header — slimmer and black text */
 .header {
-  background: #f0f0f0;  /* very light grey */
-  color: #000;           /* black text default */
-  padding: 0.5rem 0;     /* slimmer header */
+  background: #f0f0f0;   /* very light grey */
+  color: #000;            /* black text default */
+  padding: 0.5rem 0;      /* slimmer */
 }
 
 .header .container {
@@ -27,31 +27,29 @@
   margin: 0 auto;
 }
 
-/* "My name" — bold */
 .header .name {
-  font-weight: 700;      /* bold */
-  color: #000;           /* black */
+  font-weight: 700;       /* bold */
+  color: #000;
   margin: 0;
 }
 
-/* Navigation links — less bold */
 .header .nav a {
-  color: #000;           /* black */
+  color: #000;
   text-decoration: none;
   margin-left: 1rem;
-  font-weight: 400;      /* normal weight, less bold than h1 */
-  transition: color 0.3s;
+  font-weight: 400;       /* lighter than h1 */
 }
 
 .header .nav a:hover {
-  color: #555;           /* subtle hover effect */
+  color: #555;
 }
 
-/* Footer / Bottom Bar */
+/* Footer — heavier / bigger */
 .footer {
-  background: #f0f0f0;   /* very light grey */
+  background: #f0f0f0;  /* very light grey */
   color: #222;
-  padding: 2rem 0;        /* bigger footer */
+  padding: 2rem 0;       /* heavier footer */
+  margin-top: auto;      /* push to bottom on short pages */
 }
 
 .footer .container {
