@@ -1,54 +1,47 @@
 body {
-  margin: 40px;
+  margin: 40px auto;
+  max-width: 680px;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 17px;
+  line-height: 1.5;
   color: #000;
   background: #fff;
 }
 
-#page {
-  max-width: 720px;
-  margin: auto;
-}
-
-h1 { font-size: 28px; font-weight: normal; margin-bottom: 0.2em; }
-h2 { font-size: 20px; margin-top: 1.5em; margin-bottom: 0.5em; }
-.affiliation { margin-top: 0; margin-bottom: 1.2em; }
-
-/* Centered top navigation bar */
-.top-nav {
-  text-align: center;
-  border-bottom: 1px solid #999;
+nav {
   margin-bottom: 1em;
-  padding: 0.5em 0;
+  font-size: 0.95rem;
 }
 
-.top-nav a {
-  display: inline-block;
-  margin: 0 1em;
+nav a {
   text-decoration: none;
   color: #0000cc;
+  margin-right: 1em;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
   font-weight: normal;
+  margin-bottom: 4px;
+}
+
+.affiliation {
+  margin: 0.2em 0 1em 0;
   font-size: 1rem;
 }
 
-.top-nav a:hover { text-decoration: underline; }
-.top-nav a.active { font-weight: bold; text-decoration: underline; }
-
-hr { border: none; border-top: 1px solid #999; margin: 1.5em 0; }
-
-ul { padding-left: 1.2em; margin: 0.5em 0 1.5em 0; }
-ul li { margin-bottom: 0.75em; }
-
-a { color: #0000cc; text-decoration: none; }
-a:hover { text-decoration: underline; }
+.social-links {
+  margin-bottom: 1em;
+  font-size: 0.95rem;
+}
 
 footer {
-  border-top: 1px solid #999;
-  padding: 1rem 0;
-  text-align: center;
+  margin-top: 2em;
   font-size: 0.85rem;
   color: #666;
-  margin-top: 3rem;
 }
