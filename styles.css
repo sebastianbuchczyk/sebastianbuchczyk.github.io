@@ -21,7 +21,7 @@ a {
 /* Header */
 .header {
   background: #eeeeee;
-  color: #fff;
+  color: #222;
   padding: 1rem 0;
   position: sticky;
   top: 0;
@@ -102,7 +102,7 @@ a {
   text-align: center;
   padding: 1.5rem 0;
   background: #eeeeee;
-  color: #fff;
+  color: #222;
 }
 
 /* Responsive */
