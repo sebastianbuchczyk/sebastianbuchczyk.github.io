@@ -45,18 +45,23 @@ a {
   font-weight: bold;
 }
 
-/* Bottom bar - same style as header */
-.bottom-bar {
-  background: #555;          
-  color: #fff;     
+/* Footer / Bottom Bar */
+.footer {
+  background: #555;  
+  color: #fff;
   padding: 1rem 0;
-  position: relative;
-  text-align: left;
-  font-weight: bold;
 }
 
-.bottom-bar .container {
+.footer .container {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  max-width: 900px;
+  margin: 0 auto;
 }
+
+.footer p {
+  margin: 0;
+  font-weight: bold;
+}
+
