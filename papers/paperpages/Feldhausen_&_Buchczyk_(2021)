@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Title of Paper — My name</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <div class="page-wrapper">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-inner">
+      <h1 class="name">My name</h1>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="work.html">Work</a>
+        <a href="#cv">CV</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Publication Content -->
+  <section class="publication-detail">
+    <div class="container">
+
+      <!-- Paper Title -->
+      <h2>Title of the Paper</h2>
+
+      <!-- Authors -->
+      <p><strong>Authors:</strong> Author A, Author B, Author C</p>
+
+      <!-- Journal and Date -->
+      <p><em>Journal Name</em>, Volume X, Year</p>
+
+      <!-- Abstract -->
+      <h3>Abstract</h3>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquet, diam eu suscipit placerat, 
+        sapien sem aliquet dolor, nec lobortis quam nisi eget urna. Curabitur euismod, odio at fermentum 
+        scelerisque, orci purus ullamcorper sapien, vitae interdum tortor velit ac nulla.
+      </p>
+
+      <!-- PDF & Data Buttons -->
+      <a href="path/to/paper.pdf" class="btn" download>Download PDF</a>
+      <a href="path/to/paper-data.zip" class="btn" download>Download Data</a>
+
+      <!-- DOI or External Link (if applicable) -->
+      <p style="margin-top: 1rem;">
+        <a href="https://doi.org/YourDOI" target="_blank">View on Publisher Site / DOI</a>
+      </p>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 My Name</p>
+    </div>
+  </footer>
+
+ </div> <!-- /.page-wrapper -->
+</body>
+</html>
