@@ -1,0 +1,58 @@
+/* ===== Global Styles ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fefefe;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* ===== Header ===== */
+.site-header {
+    background: #222;
+    color: #fff;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+}
+
+.site-title {
+    display: inline-block;
+    margin: 0;
+}
+
+.site-nav {
+    float: right;
+}
+
+.site-nav a {
+    color: #fff;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+/* ===== Hero Section ===== */
+.hero-section {
+    text-align: center;
+    padding: 4rem 0;
+    background: #f2f2f2;
+}
+
+/* ===== Sections ===== */
+section {
+    margin: 2rem 0;
+}
+
+/* ===== Footer ===== */
+.site-footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #222;
+    color: #fff;
+}
