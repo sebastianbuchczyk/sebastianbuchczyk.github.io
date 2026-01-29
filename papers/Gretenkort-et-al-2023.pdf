@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The unanswered question: the Romance subjunctive — My name</title>
+  <link rel="stylesheet" href="../../styles.css">
+</head>
+<body>
+<div class="page-wrapper">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-inner">
+      <h1 class="name">My name</h1>
+      <nav class="nav">
+        <a href="../../index.html">Home</a>
+        <a href="../../work.html">Work</a>
+        <a href="#cv">CV</a>
+        <a href="../../contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Publication Detail -->
+  <section class="publication-detail">
+    <div class="container">
+
+      <!-- Paper Title -->
+      <h2>The unanswered question: the Romance subjunctive</h2>
+
+      <!-- Authors -->
+      <p><strong>Tobias Gretenkort, Sebastian Buchczyk, Ingo Feldhausen</strong></p>
+
+      <!-- Journal Info -->
+      <p><em>Cross-linguistic facets of the subjunctive</em></p>
+
+      <!-- Abstract -->
+      <h3>Abstract</h3>
+      <p>
+      Research on the subjunctive mood is abundant in the linguistic literature, especially in the Romance languages. In this introduction, we attempt to organize some selected works from the end of the 19th until the beginning of the 21st century and identify recurring themes and arguments in the literature. We group the literature into four blocks that are loosely associated with the historical developments in linguistics and their corresponding schools of thought: i) philological accounts, ii) formal linguistic positions, iii) pragmatic contributions, and iv) cognitive and neurolinguistics. In doing so, it becomes apparent that recurring themes emerge independently of each other at both the diachronic and synchronic levels of research on the subjunctive mood in Romance. In particular, we identify the following points of debate: 1) Is there one or more than one subjunctive, 2) What role do speakers and listeners/hearers play in the construction of the meaning of the subjunctive, 3) How does the subjunctive relate to the reality or unreality of the information given, and 4) How is the subjunctive motivated by simpler grammatical or semantic concepts. We hope to contribute to organizing the vast body of literature on this topic for other researchers and help generate new research questions in the field. To this end, we finally contrast the linguistic literature on the topic with cognitive and neurolinguistic evidence on hypotheticals and counterfactuals in order to identify empirical findings that future subjunctive theories will have to be in accordance with.
+      </p>
+
+      <!-- Download Buttons -->
+
+      <!-- Optional DOI / Publisher link -->
+      <p style="margin-top: 1rem;">
+        <a href="https://www.avm-verlag.de/detailview?no=L95477170" target="_blank">https://doi.org/10.5334/gjgl.1219</a>
+      </p>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 My Name</p>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>
