@@ -125,8 +125,8 @@ a {
 /* Text boxes */
 .contact input[type="text"],
 .contact input[type="email"] {
-  width: 400px;       /* makes the input span full container width */
-  max-width: 500px;  /* optional maximum width */
+  width: 900px;       /* makes the input span full container width */
+  max-width: 900px;  /* optional maximum width */
   padding: 0.5rem;   /* internal spacing */
   font-size: 1rem;
   box-sizing: border-box; /* ensures padding doesn't break width */
@@ -134,8 +134,8 @@ a {
 
 /* Textarea */
 .contact textarea {
-  width: 100%;
-  max-width: 500px;
+  width: 900;
+  max-width: 900px;
   height: 200px;     /* sets the height explicitly */
   padding: 0.5rem;
   font-size: 1rem;
