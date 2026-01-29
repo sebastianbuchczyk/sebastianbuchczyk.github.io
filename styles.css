@@ -20,7 +20,7 @@ a {
 
 /* Header */
 .header {
-  background: #d3d3d3;
+  background: #dcdcdc;
   color: #222;
   padding: 1rem 0;
   position: sticky;
@@ -46,7 +46,7 @@ a {
 }
 
 .footer {
-  background: #555;
+  background: #dcdcdc;
   color: #fff;
   padding: 1rem 0;
 }
