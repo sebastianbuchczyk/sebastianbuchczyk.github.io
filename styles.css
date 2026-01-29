@@ -1,22 +1,22 @@
-/* Make body a column flex container to push footer down */
-body {
+/* ===== Page Wrapper / Sticky Footer ===== */
+.page-wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;   /* full viewport height */
-  margin: 0;           /* remove default body margin */
+  min-height: 100vh;
 }
 
-/* Make main content grow to fill space above footer */
-header + section,
-section {
+/* Make main sections expand to push footer down */
+.about,
+.work,
+.contact {
   flex: 1;
 }
 
-/* Header — slimmer and black text */
+/* ===== Header ===== */
 .header {
-  background: #f0f0f0;   /* very light grey */
-  color: #000;            /* black text default */
-  padding: 0.5rem 0;      /* slimmer */
+  background: #f0f0f0;  /* very light grey */
+  padding: 0.5rem 0;    /* slimmer header */
+  color: #000;          /* default black */
 }
 
 .header .container {
@@ -28,28 +28,29 @@ section {
 }
 
 .header .name {
-  font-weight: 700;       /* bold */
-  color: #000;
+  font-weight: 700;     /* bold */
+  color: #000;          /* black */
   margin: 0;
 }
 
 .header .nav a {
+  font-weight: 400;     /* less bold than h1 */
   color: #000;
   text-decoration: none;
   margin-left: 1rem;
-  font-weight: 400;       /* lighter than h1 */
+  transition: color 0.3s;
 }
 
 .header .nav a:hover {
   color: #555;
 }
 
-/* Footer — heavier / bigger */
+/* ===== Footer ===== */
 .footer {
   background: #f0f0f0;  /* very light grey */
   color: #222;
   padding: 2rem 0;       /* heavier footer */
-  margin-top: auto;      /* push to bottom on short pages */
+  margin-top: auto;      /* push to bottom if page short */
 }
 
 .footer .container {
@@ -63,4 +64,21 @@ section {
 .footer p {
   margin: 0;
   font-weight: bold;
+}
+
+/* ===== Container / Sections ===== */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Optional spacing for sections */
+section {
+  padding: 2rem 0;
+}
+
+/* Project card styling */
+.project-card {
+  margin-bottom: 1.5rem;
 }
