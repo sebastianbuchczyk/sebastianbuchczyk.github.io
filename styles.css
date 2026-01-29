@@ -134,7 +134,7 @@ a {
 
 /* Textarea */
 .contact textarea {
-  width: 900;
+  width: 900px;
   max-width: 900px;
   height: 200px;     /* sets the height explicitly */
   padding: 0.5rem;
