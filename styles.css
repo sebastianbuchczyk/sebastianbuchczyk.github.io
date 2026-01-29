@@ -45,9 +45,8 @@ a {
   font-weight: bold;
 }
 
-/* Footer / Bottom Bar */
 .footer {
-  background: #555;  
+  background: #555;
   color: #fff;
   padding: 1rem 0;
 }
@@ -64,4 +63,5 @@ a {
   margin: 0;
   font-weight: bold;
 }
+
 
