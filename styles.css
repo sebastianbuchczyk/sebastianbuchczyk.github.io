@@ -163,13 +163,6 @@ a {
   resize: vertical;
 }
 
-/* Send button */
-.contact button {
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  cursor: pointer;
-}
-
 .publication {
   margin-bottom: 2.5rem;
 }
@@ -178,6 +171,7 @@ a {
   margin: 0.3rem 0;
 }
 
+.contact button,
 .download-btn {
   display: inline-block;
   padding: 0.5rem 1rem;
