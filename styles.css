@@ -24,12 +24,16 @@ a {
   min-height: 100vh; /* full viewport height */
 }
 
-.header,
+/* This makes the middle content expand to push the footer down */
+.header {
+  flex: 0 0 auto;
+}
+
 .hero,
 .about,
 .work,
 .contact {
-  flex: 0 0 auto; /* normal height sections */
+  flex: 1; /* expand to fill remaining vertical space */
 }
 
 /* Header */
@@ -113,6 +117,7 @@ a {
 
 /* Footer */
 .footer {
+  flex-shrink: 0;  /* footer stays at the bottom */
   text-align: center;
   padding: 1.5rem 0;
   background: #eeeeee;
