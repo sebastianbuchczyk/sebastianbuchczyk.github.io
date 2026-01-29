@@ -1,4 +1,17 @@
-/* Global container */
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  background: #fff;
+  color: #222;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -16,9 +29,9 @@
 }
 
 .header .container {
-  display: flex;                 /* horizontal layout */
-  justify-content: space-between; /* name left, nav right */
-  align-items: center;            /* vertical centering */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .header .name {
@@ -29,23 +42,7 @@
 .header .nav a {
   color: #fff;
   margin-left: 1rem;
-  text-decoration: none;
   font-weight: bold;
 }
 
-/* Mobile: stack on small screens */
-@media (max-width: 600px) {
-  .header .container {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .header .nav {
-    margin-top: 0.5rem;
-  }
-
-  .header .nav a {
-    margin-left: 0;
-    margin-right: 1rem;
-  }
-}
+/* Hero S*
