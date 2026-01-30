@@ -25,7 +25,9 @@ a {
 }
 
 .page-wrapper {
-  padding-top: 40px; /* match header height */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 /* Header */
@@ -104,10 +106,7 @@ a {
 
 /* Footer */
 .footer {
-  margin-top: auto;   /* pushes footer to bottom if content is short */
-  background-color: #f1f1f1; /* optional styling */
-  padding: 20px;
-  text-align: center;
+  margin-top: auto;
 }
 
 /* Responsive */
