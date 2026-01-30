@@ -228,12 +228,12 @@ section .container {
 }
 
 .cv embed {
-  width: 210px;     /* A4 width in px at ~1:1 scale for screen, adjust as needed */
-  height: 297px;    /* A4 height in px */
-  max-width: 80%;   /* optional, responsive for smaller screens */
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* gives it “page” feel */
+  width: 60%;             /* PDF takes 60% of page width */
+  max-width: 800px;       /* caps at 800px wide on large screens */
+  height: auto;           /* height adjusts to maintain PDF ratio */
+  aspect-ratio: 210 / 297; /* ensures A4 proportions */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
   border: 1px solid #ccc;
   display: block;
-  margin: 20px auto; /* centers horizontally */
+  margin: 30px auto;      /* centers PDF */
 }
-
