@@ -30,6 +30,11 @@ a {
   min-height: 100vh;
 }
 
+p, li {
+  max-width: 65ch;
+  margin: 0 auto 1rem auto;
+}
+
 /* Header */
 .header {
   position: fixed;
