@@ -25,9 +25,7 @@ a {
 }
 
 .page-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;  /* full viewport height */
+  padding-top: 40px; /* match header height */
 }
 
 /* Header */
