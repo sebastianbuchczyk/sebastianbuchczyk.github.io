@@ -225,6 +225,4 @@ section .container {
 .cv {
   flex: 1; /* take remaining space */
   display: flex;
-  justify-content: center; /* optional, center embed */
-  align-items: center;     /* optional, center embed vertically */
 }
