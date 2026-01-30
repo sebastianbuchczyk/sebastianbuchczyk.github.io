@@ -34,13 +34,6 @@ a {
   min-height: 100vh;
 }
 
-p, li {
-  max-width: 65ch;      /* keeps paragraphs narrow */
-  margin: 0 auto 1rem;  /* centers the paragraph block horizontally */
-  text-align: left;     /* text starts at left edge of the paragraph */
-}
-
-
 /* Header */
 .header {
   position: fixed;
