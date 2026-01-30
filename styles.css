@@ -32,14 +32,16 @@ a {
 
 /* Header */
 .header {
-  position: sticky;    /* keeps it fixed at top when scrolling */
+  position: fixed;
   top: 0;
-  background-color: #eee;
-  padding: 10px 20px;  /* smaller padding makes it slimmer */
-  z-index: 1000;       /* stays on top of content */
+  left: 0;
+  width: 100%;
+  height: 40px;        /* SLIM */
+  padding: 0 20px;     /* NO vertical padding */
+  background: #eee;
   display: flex;
-  align-items: left;  /* vertically center content */
-  height: 50px;        /* optional fixed height for extra slimness */
+  align-items: center;
+  z-index: 1000;
 }
 
 .header .container {
@@ -196,19 +198,6 @@ a {
 .lead {
   font-size: 1.15rem;   /* adjust if you want it bigger/smaller */
   line-height: 1.5;
-}
-
-.header {
-  position: fixed;   /* keeps header at the top of viewport */
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1000;
-  background: #eeeeee;  /* ensure header covers content */
-}
-
-section .container {
-  padding-top: 80px;  /* only pushes content down */
 }
 
 .cv {
