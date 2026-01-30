@@ -32,12 +32,14 @@ a {
 
 /* Header */
 .header {
-  background: #eeeeee;
-  color: #222;
-  padding: 1rem 0;
-  position: sticky;
+  position: sticky;    /* keeps it fixed at top when scrolling */
   top: 0;
-  z-index: 1000;
+  background-color: #eee;
+  padding: 10px 20px;  /* smaller padding makes it slimmer */
+  z-index: 1000;       /* stays on top of content */
+  display: flex;
+  align-items: center;  /* vertically center content */
+  height: 50px;        /* optional fixed height for extra slimness */
 }
 
 .header .container {
