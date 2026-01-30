@@ -226,5 +226,22 @@ a {
   height: 100%;
 }
 
+html, body {
+  height: 100%;          /* make sure the body fills viewport */
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;  /* stack header, content, footer */
+}
+
+.page-wrapper {
+  flex: 1;                 /* takes all remaining space */
+  display: flex;
+  flex-direction: column;
+}
+
+
 
 
