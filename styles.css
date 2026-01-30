@@ -215,5 +215,11 @@ a {
   padding-top: 80px;  /* adjust to match your header height */
 }
 
+.header {
+  padding: 1rem 0;  /* adjust to match other pages */
+  font-size: 1.2rem; /* if the CV header text is bigger */
+  height: 60px;      /* optional: enforce fixed height */
+}
+
 
 
