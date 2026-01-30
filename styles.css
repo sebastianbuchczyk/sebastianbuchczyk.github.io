@@ -80,14 +80,10 @@ a {
   font-size: 1.1rem;
 }
 
-/* About Section */
-.about {
-  padding: 3rem 1rem;
-}
-
-/* Work Section */
-.work {
-  padding: 3rem 1rem;
+.about,
+.work,
+.contact {
+  padding: 1.5rem 1rem;
 }
 
 .projects {
@@ -106,11 +102,6 @@ a {
 
 .project-card:hover {
   transform: translateY(-5px);
-}
-
-/* Contact Section */
-.contact {
-  padding: 3rem 1rem;
 }
 
 /* Footer */
