@@ -198,4 +198,10 @@ a {
   max-width: 500px;
 }
 
+.lead {
+  font-size: 1.6rem;   /* adjust if you want it bigger/smaller */
+  line-height: 1.5;
+}
+
+
 
