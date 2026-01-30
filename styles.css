@@ -221,3 +221,10 @@ section .container {
   padding-top: 80px;  /* only pushes content down */
 }
 
+/* Main content grows to push footer down */
+.cv {
+  flex: 1; /* take remaining space */
+  display: flex;
+  justify-content: center; /* optional, center embed */
+  align-items: center;     /* optional, center embed vertically */
+}
