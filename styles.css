@@ -215,4 +215,14 @@ a {
   padding-top: 80px;  /* adjust to match your header height */
 }
 
+.cv-embed-container {
+  height: 80vh;         /* limit height */
+  overflow: auto;        /* scroll inside container if PDF is tall */
+}
+.cv-embed-container embed {
+  width: 100%;
+  height: 100%;
+}
+
+
 
