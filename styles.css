@@ -38,7 +38,7 @@ a {
   padding: 10px 20px;  /* smaller padding makes it slimmer */
   z-index: 1000;       /* stays on top of content */
   display: flex;
-  align-items: center;  /* vertically center content */
+  align-items: left;  /* vertically center content */
   height: 50px;        /* optional fixed height for extra slimness */
 }
 
