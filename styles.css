@@ -204,15 +204,17 @@ a {
 }
 
 .header {
-  position: fixed;   /* keeps it at the top always */
-  top: 0;            /* stick to top */
+  position: fixed;   /* keeps header at the top of viewport */
+  top: 0;
   left: 0;
-  width: 100%;       /* span the full viewport */
-  z-index: 1000;     /* stay on top of other content */
+  width: 100%;
+  z-index: 1000;
+  background: #eeeeee;  /* ensure header covers content */
 }
 
+
 .page-wrapper {
-  padding-top: 80px;  /* adjust to match your header height */
+  padding-top: 80px;  /* same height as header */
 }
 
 .cv-embed-container {
