@@ -197,6 +197,12 @@ p, li {
   line-height: 1.5;
 }
 
+p, .lead {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.5;      /* consistent with other text */
+}
+
 .cv {
   /* just natural height, no flex here */
   padding: 50px 0; /* optional spacing */
