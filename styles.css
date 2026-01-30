@@ -203,5 +203,17 @@ a {
   line-height: 1.5;
 }
 
+.header {
+  position: fixed;   /* keeps it at the top always */
+  top: 0;            /* stick to top */
+  left: 0;
+  width: 100%;       /* span the full viewport */
+  z-index: 1000;     /* stay on top of other content */
+}
+
+.page-wrapper {
+  padding-top: 80px;  /* adjust to match your header height */
+}
+
 
 
