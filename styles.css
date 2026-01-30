@@ -30,19 +30,6 @@ a {
   min-height: 100vh;  /* full viewport height */
 }
 
-
-/* This makes the middle content expand to push the footer down */
-.header {
-  flex: 0 0 auto;
-}
-
-.hero,
-.about,
-.work,
-.contact {
-  flex: 1; /* expand to fill remaining vertical space */
-}
-
 /* Header */
 .header {
   background: #eeeeee;
