@@ -7,6 +7,12 @@ body {
   color: #222;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 a {
   color: #0077cc;
   text-decoration: none;
@@ -19,8 +25,11 @@ a {
 }
 
 .page-wrapper {
-  display: block; /* normal flow, no flex */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* full viewport height */
 }
+
 
 /* This makes the middle content expand to push the footer down */
 .header {
@@ -115,17 +124,11 @@ a {
 
 /* Footer */
 .footer {
-  text-align: center;
+  margin-top: auto;   /* pushes footer to bottom if content is short */
+  background-color: #f1f1f1; /* optional styling */
   padding: 20px;
-  background: #eeeeee;
-  color: #222;
-
-  position: relative; /* ensure it stays in flow */
-  bottom: 0;          /* pushes it to the bottom if page is short */
-  width: 100%;        /* spans full width */
+  text-align: center;
 }
-
-
 
 /* Responsive */
 @media (max-width: 600px) {
@@ -223,3 +226,11 @@ section .container {
   /* just natural height, no flex here */
   padding: 50px 0; /* optional spacing */
 }
+
+.cv embed {
+  width: 100%;
+  height: 400px;   /* keeps it legible */
+  display: block;
+  margin-top: 20px;
+}
+
