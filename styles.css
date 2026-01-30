@@ -31,8 +31,9 @@ a {
 }
 
 p, li {
-  max-width: 65ch;
-  margin: 0 auto 1rem auto;
+  max-width: 65ch;      /* keeps paragraphs narrow */
+  margin: 0 auto 1rem;  /* centers the paragraph block */
+  text-align: justify;  /* justifies text inside each paragraph */
 }
 
 /* Header */
