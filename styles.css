@@ -217,3 +217,7 @@ a {
   background: #eeeeee;  /* ensure header covers content */
 }
 
+section .container {
+  padding-top: 80px;  /* only pushes content down */
+}
+
