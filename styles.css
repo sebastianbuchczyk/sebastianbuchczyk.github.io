@@ -21,7 +21,7 @@ a {
 .page-wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* full viewport height */
+  min-height: 200vh; /* full viewport height */
 }
 
 /* This makes the middle content expand to push the footer down */
