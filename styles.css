@@ -117,12 +117,13 @@ a {
 
 /* Footer */
 .footer {
-  flex-shrink: 0;  /* footer stays at the bottom */
   text-align: center;
   padding: 1.5rem 0;
   background: #eeeeee;
   color: #222;
+  margin-top: auto;        /* push footer to bottom */
 }
+
 
 /* Responsive */
 @media (max-width: 600px) {
