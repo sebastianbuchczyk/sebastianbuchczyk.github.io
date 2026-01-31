@@ -9,7 +9,7 @@ body {
 
 html, body {
   height: 100%;
-  overflow-y: auto; /* ensure scroll only when needed */
+  margin: 0; /* ensure scroll only when needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,15 +28,18 @@ a {
 }
 
 .page-wrapper {
-  display: block;
-  min-height: auto;
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
   height: auto;
-  padding-top: 60px;  /* adjust distance between header and top bar */
-  padding-bottom: 0;  /* adjust distance between header and bottom bar */
 }
 
 .page-wrapper .container {
   flex: 1 0 auto;
+}
+
+.page-wrapper > *:not(.footer) {
+  flex: 1 0 auto; /* content takes natural height but can grow */
 }
 
 .page-wrapper > .container:last-child {
@@ -132,8 +135,7 @@ a {
 /* Footer */
 
 .footer {
-  position: static; /* keep footer at bottom if content is short */
-  margin-top: 0;
+  flex-shrink: 0; /* keep footer at bottom if content is short */
   width: 100%;
   height: 60px;
   background: #f1f1f1;
