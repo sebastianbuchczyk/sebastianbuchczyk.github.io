@@ -36,11 +36,11 @@ a {
 }
 
 .page-wrapper .container {
-  flex: 1 0 auto;  /* content takes natural height, grows if needed */
+  flex: 1 0 auto;
 }
 
 .page-wrapper > .container:last-child {
-  margin-bottom: 1rem;  /* reduce space above footer */
+  margin-bottom: 1rem;
 }
 
 /* Header */
