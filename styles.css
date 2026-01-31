@@ -32,8 +32,8 @@ a {
   flex-direction: column;
   min-height: 0;
   height: auto;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 60px;  /* adjust distance between header and top bar */
+  padding-bottom: 60px;  /* adjust distance between header and bottom bar */
 }
 
 .page-wrapper .container {
