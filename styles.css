@@ -35,8 +35,8 @@ a {
   min-height: 100vh;
 }
 
-.page-wrapper > *:not(.footer) {
-  flex-shrink: 0; /* content takes natural height; doesn’t stretch */
+.page-wrapper .container {
+  flex: 1 0 auto;  /* content takes natural height, grows if needed */
 }
 
 /* Header */
