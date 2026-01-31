@@ -220,7 +220,7 @@ p, .lead {
 }
 
 p:last-child {
-  margin-bottom: 0.5rem;  /* or whatever feels right */
+  margin-bottom: 0;  /* reduces gap above footer */
 }
 
 .cv {
