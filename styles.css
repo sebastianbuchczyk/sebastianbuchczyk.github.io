@@ -219,6 +219,10 @@ p, .lead {
   line-height: 1.5;      /* consistent with other text */
 }
 
+p:last-child {
+  margin-bottom: 0.5rem;  /* or whatever feels right */
+}
+
 .cv {
   /* just natural height, no flex here */
   padding: 50px 0; /* optional spacing */
