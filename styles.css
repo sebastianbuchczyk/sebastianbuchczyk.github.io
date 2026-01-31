@@ -27,6 +27,10 @@ a {
   padding: 1rem;
 }
 
+section .container {
+  margin-top: 60px;       /* offset to avoid overlap with fixed header */
+}
+
 .page-wrapper {
   display: flex;
   min-height: 100%;
