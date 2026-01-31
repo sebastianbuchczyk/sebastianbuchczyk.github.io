@@ -43,9 +43,7 @@ section .container {
 }
 
 .page-wrapper > *:not(.footer) {
-  flex: 1 0 auto; /* content takes natural height but can grow */
-  padding-top: 30px;       /* offset for fixed header */
-  box-sizing: border-box;  /* ensures padding doesn't break width */
+  flex: 1 0 auto;         /* natural content height */
 }
 
 .page-wrapper > section {
