@@ -40,7 +40,7 @@ a {
 
 .page-wrapper > *:not(.footer) {
   flex: 1 0 auto; /* content takes natural height but can grow */
-  padding-top: 40px;       /* offset for fixed header */
+  padding-top: 60px;       /* offset for fixed header */
   box-sizing: border-box;  /* ensures padding doesn't break width */
 }
 
