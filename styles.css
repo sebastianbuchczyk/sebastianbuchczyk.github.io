@@ -39,6 +39,10 @@ a {
   flex: 1 0 auto;  /* content takes natural height, grows if needed */
 }
 
+.page-wrapper > .container:last-child {
+  margin-bottom: 1rem;  /* reduce space above footer */
+}
+
 /* Header */
 .header {
   position: fixed;
