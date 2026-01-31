@@ -30,9 +30,9 @@ a {
 .page-wrapper {
   display: flex;
   flex-direction: column;
-  padding-top: 80px;
   min-height: 0;
-  padding-bottom: 60px; /* same as footer height */
+  height: auto;
+  padding-bottom: 60px;
 }
 
 .page-wrapper .container {
@@ -132,12 +132,10 @@ a {
 /* Footer */
 
 .footer {
-  position: fixed;
+  position: absolute; /* keep footer at bottom if content is short */
   bottom: 0;
-  left: 0;
   width: 100%;
-  height: 60px; /* adjust to actual footer height */
-  background: #f1f1f1; /* keep your style */
+  height: 60px;
 }
 
 /* Responsive */
