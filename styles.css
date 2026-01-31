@@ -44,6 +44,10 @@ a {
   box-sizing: border-box;  /* ensures padding doesn't break width */
 }
 
+.page-wrapper > section {
+  padding-top: 30px; /* or slightly more if you want extra breathing room */
+}
+
 .page-wrapper > .container:last-child {
   margin-bottom: 1rem;
 }
