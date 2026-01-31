@@ -31,6 +31,7 @@ a {
 .page-wrapper {
   display: flex;
   flex-direction: column;
+  padding-top: 80px;
   min-height: 100vh;
 }
 
