@@ -32,7 +32,6 @@ a {
   min-height: 100%;
   flex-direction: column;
   height: auto;
-  padding-top: 30px;  /* adjust distance between header and top bar */
 }
 
 .page-wrapper .container {
