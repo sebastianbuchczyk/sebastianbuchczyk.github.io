@@ -14,7 +14,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   text-align: left;       /* all headers flush left */
-  font-size: 2rem;   /* large main heading */
+  font-size: 3rem;   /* large main heading */
 }
 
 a {
